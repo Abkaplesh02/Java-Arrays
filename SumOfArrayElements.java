@@ -1,4 +1,5 @@
 // Find the sum of all elements of array ::: 
+//We need to input array from user
 import java.util.Arrays;
 import java.util.Scanner;
 
