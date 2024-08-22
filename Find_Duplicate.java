@@ -5,6 +5,7 @@ import java.util.Scanner;
 //
 //Note :
 //Duplicate number is always present in the given array/list.
+//You don't need to print or return anything, just change in the input array itself.
 public class Find_Duplicate {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
