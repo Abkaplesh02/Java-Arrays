@@ -3,7 +3,6 @@
 //
 //Note:
 //Given array/list can contain duplicate elements.
-//You don't need to print or return anything, just change in the input array itself.
 
 import java.util.Scanner;
 

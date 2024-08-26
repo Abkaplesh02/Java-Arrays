@@ -1,4 +1,3 @@
-// Find the maximum element in array using loops 
 import java.util.Scanner;
 
 public class MaxElementInArray {
