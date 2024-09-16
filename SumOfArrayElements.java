@@ -1,4 +1,4 @@
-// Sum of Array Elements
+// Sum of array Elements
 import java.util.Arrays;
 import java.util.Scanner;
 
